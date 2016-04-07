@@ -1,0 +1,183 @@
+table,td,th
+{
+   border: 1px solid purple;
+   border-width: 5px;
+   
+   
+   
+   
+   
+   
+   
+   
+}
+table
+{
+    width: 220px;
+    height: 220px;
+    margin-top: 120px;
+}
+
+
+
+th
+{
+color: blue;
+text-align: left;
+}
+
+ul#me1
+{
+    
+    list-style-type: circle;
+}
+ul#me1 li
+{
+    
+    color:darkslateblue;
+    
+}
+
+
+dt,dd
+
+{
+   
+    color:red;
+}
+
+
+ul#me 
+{
+    margin-left:500px;
+    
+   
+    
+    
+}
+#me li
+{
+    display: inline;
+   
+}
+
+#me   a
+{
+   
+   color:yellow;
+   background-color: black;
+   padding: 10px 10px;
+  
+   
+}
+
+#me  a:hover
+{
+    background-color: darkorange;
+}
+
+
+
+#heade 
+{
+    color: blue;
+    text-align: center;
+    
+    background-color: black;
+   padding:4px;
+    
+   
+    
+}
+
+#nav 
+{
+    height: 500px;
+    width:150px;
+    background-color:grey;
+    padding:5px;
+    float: left;
+}
+
+
+
+#nav a
+{
+float: left;
+color:blue;
+background-color:black;
+}
+
+
+
+#foot h3
+{
+    background-color:purple;
+    text-align: center;
+    
+    
+    
+    
+}
+
+
+#extra 
+{
+    
+    float:none;
+    background-color: olive;
+    height: 490px;
+    
+    
+}
+
+#extra p
+{
+    background-color: purple;
+}
+
+
+.form1
+{
+    margin-left: 80px;
+    
+}
+
+
+
+div.inp
+{
+    background-color: grey;
+}
+div.inp form
+{
+    
+    margin-left: 400px;
+}
+div.inp input
+{
+    
+    color: darkolivegreen;
+    height: 50px;
+    width: 350px;
+}
+.phpp
+{
+    text-align: center;
+}
+
+#form2
+{
+    background-color: grey;
+}
+
+#form2 h1
+{
+    text-align: center;
+}
+
+#form2 input
+{
+    height:25px;
+    width:200px;
+}
